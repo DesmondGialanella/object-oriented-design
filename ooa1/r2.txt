@@ -1,0 +1,4049 @@
+<html>
+<head><title>Home Run Report</title></head>
+<body><table>
+<tr>
+<td>Fernando Abad*</td><td>0</td>
+
+<tr>
+<td>Fernando Abad*</td><td>0</td>
+
+<tr>
+<td>Jose Abreu</td><td>25</td>
+
+<tr>
+<td>A.J. Achter</td><td>0</td>
+
+<tr>
+<td>Dustin Ackley*</td><td>0</td>
+
+<tr>
+<td>Cristhian Adames#</td><td>2</td>
+
+<tr>
+<td>Matt Adams*</td><td>16</td>
+
+<tr>
+<td>Tim Adleman</td><td>0</td>
+
+<tr>
+<td>Ehire Adrianza#</td><td>2</td>
+
+<tr>
+<td>Jesus Aguilar</td><td>0</td>
+
+<tr>
+<td>Nick Ahmed</td><td>4</td>
+
+<tr>
+<td>Matt Albers*</td><td>0</td>
+
+<tr>
+<td>Hanser Alberto</td><td>0</td>
+
+<tr>
+<td>Arismendy Alcantara#</td><td>0</td>
+
+<tr>
+<td>Jorge Alfaro</td><td>0</td>
+
+<tr>
+<td>Cody Allen</td><td>0</td>
+
+<tr>
+<td>Abraham Almonte#</td><td>1</td>
+
+<tr>
+<td>Albert Almora</td><td>3</td>
+
+<tr>
+<td>Yonder Alonso*</td><td>7</td>
+
+<tr>
+<td>Aaron Altherr</td><td>4</td>
+
+<tr>
+<td>Jose Altuve</td><td>24</td>
+
+<tr>
+<td>Dariel Alvarez</td><td>0</td>
+
+<tr>
+<td>Dario Alvarez*</td><td>0</td>
+
+<tr>
+<td>Dario Alvarez*</td><td>0</td>
+
+<tr>
+<td>Jose Alvarez*</td><td>0</td>
+
+<tr>
+<td>Pedro Alvarez*</td><td>22</td>
+
+<tr>
+<td>Alexi Amarista*</td><td>0</td>
+
+<tr>
+<td>Brett Anderson*</td><td>0</td>
+
+<tr>
+<td>Chase Anderson</td><td>0</td>
+
+<tr>
+<td>Tim Anderson</td><td>9</td>
+
+<tr>
+<td>Tyler Anderson*</td><td>1</td>
+
+<tr>
+<td>Robert Andino</td><td>0</td>
+
+<tr>
+<td>Matt Andriese</td><td>0</td>
+
+<tr>
+<td>Elvis Andrus</td><td>8</td>
+
+<tr>
+<td>Nori Aoki*</td><td>4</td>
+
+<tr>
+<td>Jayson Aquino*</td><td>0</td>
+
+<tr>
+<td>Elvis Araujo*</td><td>0</td>
+
+<tr>
+<td>Chris Archer</td><td>0</td>
+
+<tr>
+<td>Orlando Arcia</td><td>4</td>
+
+<tr>
+<td>Oswaldo Arcia*</td><td>4</td>
+
+<tr>
+<td>Oswaldo Arcia*</td><td>2</td>
+
+<tr>
+<td>Oswaldo Arcia*</td><td>0</td>
+
+<tr>
+<td>Oswaldo Arcia*</td><td>2</td>
+
+<tr>
+<td>Nolan Arenado</td><td>41</td>
+
+<tr>
+<td>Jake Arrieta</td><td>2</td>
+
+<tr>
+<td>Cody Asche*</td><td>4</td>
+
+<tr>
+<td>Alec Asher</td><td>0</td>
+
+<tr>
+<td>Carlos Asuaje*</td><td>0</td>
+
+<tr>
+<td>Tyler Austin</td><td>5</td>
+
+<tr>
+<td>Alex Avila*</td><td>7</td>
+
+<tr>
+<td>Luis Avilan*</td><td>0</td>
+
+<tr>
+<td>Mike Aviles</td><td>1</td>
+
+<tr>
+<td>John Axford</td><td>0</td>
+
+<tr>
+<td>Erick Aybar#</td><td>2</td>
+
+<tr>
+<td>Erick Aybar#</td><td>1</td>
+
+<tr>
+<td>Javier Baez</td><td>14</td>
+
+<tr>
+<td>Pedro Baez</td><td>0</td>
+
+<tr>
+<td>Andrew Bailey</td><td>0</td>
+
+<tr>
+<td>Homer Bailey</td><td>0</td>
+
+<tr>
+<td>Jett Bandy</td><td>8</td>
+
+<tr>
+<td>Austin Barnes</td><td>0</td>
+
+<tr>
+<td>Brandon Barnes</td><td>0</td>
+
+<tr>
+<td>Jacob Barnes</td><td>0</td>
+
+<tr>
+<td>Matt Barnes</td><td>0</td>
+
+<tr>
+<td>Tony Barnette</td><td>0</td>
+
+<tr>
+<td>Darwin Barney</td><td>4</td>
+
+<tr>
+<td>Tucker Barnhart#</td><td>7</td>
+
+<tr>
+<td>Kyle Barraclough</td><td>0</td>
+
+<tr>
+<td>Jake Barrett</td><td>0</td>
+
+<tr>
+<td>Antonio Bastardo</td><td>0</td>
+
+<tr>
+<td>Antonio Bastardo</td><td>0</td>
+
+<tr>
+<td>Trevor Bauer</td><td>0</td>
+
+<tr>
+<td>Buddy Baumann*</td><td>0</td>
+
+<tr>
+<td>Jose Bautista</td><td>22</td>
+
+<tr>
+<td>Chris Beck</td><td>0</td>
+
+<tr>
+<td>Gordon Beckham</td><td>5</td>
+
+<tr>
+<td>Gordon Beckham</td><td>0</td>
+
+<tr>
+<td>Tim Beckham</td><td>5</td>
+
+<tr>
+<td>Cam Bedrosian</td><td>0</td>
+
+<tr>
+<td>Matt Belisle</td><td>0</td>
+
+<tr>
+<td>Josh Bell#</td><td>3</td>
+
+<tr>
+<td>Brandon Belt*</td><td>17</td>
+
+<tr>
+<td>Carlos Beltran#</td><td>22</td>
+
+<tr>
+<td>Carlos Beltran#</td><td>7</td>
+
+<tr>
+<td>Adrian Beltre</td><td>32</td>
+
+<tr>
+<td>Andrew Benintendi*</td><td>2</td>
+
+<tr>
+<td>Joaquin Benoit</td><td>0</td>
+
+<tr>
+<td>Joaquin Benoit</td><td>0</td>
+
+<tr>
+<td>James Beresford*</td><td>0</td>
+
+<tr>
+<td>Christian Bergman</td><td>0</td>
+
+<tr>
+<td>Jose Berrios</td><td>0</td>
+
+<tr>
+<td>Dellin Betances</td><td>0</td>
+
+<tr>
+<td>Christian Bethancourt</td><td>6</td>
+
+<tr>
+<td>Chad Bettis</td><td>0</td>
+
+<tr>
+<td>Mookie Betts</td><td>31</td>
+
+<tr>
+<td>Joe Biagini</td><td>0</td>
+
+<tr>
+<td>Ty Blach</td><td>0</td>
+
+<tr>
+<td>Charlie Blackmon*</td><td>29</td>
+
+<tr>
+<td>Aaron Blair</td><td>0</td>
+
+<tr>
+<td>Andres Blanco#</td><td>4</td>
+
+<tr>
+<td>Gregor Blanco*</td><td>1</td>
+
+<tr>
+<td>Joe Blanton</td><td>0</td>
+
+<tr>
+<td>Jabari Blash</td><td>3</td>
+
+<tr>
+<td>Michael Blazek</td><td>0</td>
+
+<tr>
+<td>Richard Bleier*</td><td>0</td>
+
+<tr>
+<td>Jerry Blevins*</td><td>0</td>
+
+<tr>
+<td>Xander Bogaerts</td><td>21</td>
+
+<tr>
+<td>Mike Bolsinger</td><td>0</td>
+
+<tr>
+<td>Emilio Bonifacio#</td><td>0</td>
+
+<tr>
+<td>Julio Borbon*</td><td>0</td>
+
+<tr>
+<td>Wilfredo Boscan</td><td>0</td>
+
+<tr>
+<td>Buddy Boshers*</td><td>0</td>
+
+<tr>
+<td>Justin Bour*</td><td>15</td>
+
+<tr>
+<td>Peter Bourjos</td><td>5</td>
+
+<tr>
+<td>Michael Bourn*</td><td>3</td>
+
+<tr>
+<td>Michael Bourn*</td><td>2</td>
+
+<tr>
+<td>Matthew Bowman</td><td>0</td>
+
+<tr>
+<td>Blaine Boyer</td><td>0</td>
+
+<tr>
+<td>Brad Brach</td><td>0</td>
+
+<tr>
+<td>Silvino Bracho</td><td>0</td>
+
+<tr>
+<td>Archie Bradley</td><td>0</td>
+
+<tr>
+<td>Jackie Bradley*</td><td>26</td>
+
+<tr>
+<td>Jed Bradley*</td><td>0</td>
+
+<tr>
+<td>Michael Brantley*</td><td>0</td>
+
+<tr>
+<td>Steven Brault*</td><td>0</td>
+
+<tr>
+<td>Ryan Braun</td><td>30</td>
+
+<tr>
+<td>Alex Bregman</td><td>8</td>
+
+<tr>
+<td>Bryce Brentz</td><td>1</td>
+
+<tr>
+<td>Craig Breslow*</td><td>0</td>
+
+<tr>
+<td>Austin Brice</td><td>0</td>
+
+<tr>
+<td>Parker Bridwell</td><td>0</td>
+
+<tr>
+<td>Reid Brignac*</td><td>0</td>
+
+<tr>
+<td>Socrates Brito*</td><td>4</td>
+
+<tr>
+<td>Zach Britton*</td><td>0</td>
+
+<tr>
+<td>Mike Broadway</td><td>0</td>
+
+<tr>
+<td>Trevor Brown</td><td>5</td>
+
+<tr>
+<td>Jonathan Broxton</td><td>0</td>
+
+<tr>
+<td>Keon Broxton</td><td>9</td>
+
+<tr>
+<td>Jay Bruce*</td><td>25</td>
+
+<tr>
+<td>Jay Bruce*</td><td>8</td>
+
+<tr>
+<td>Kris Bryant</td><td>39</td>
+
+<tr>
+<td>Jake Buchanan</td><td>0</td>
+
+<tr>
+<td>Clay Buchholz*</td><td>0</td>
+
+<tr>
+<td>Ryan Buchter*</td><td>0</td>
+
+<tr>
+<td>Madison Bumgarner</td><td>3</td>
+
+<tr>
+<td>Dylan Bundy#</td><td>0</td>
+
+<tr>
+<td>Enrique Burgos</td><td>0</td>
+
+<tr>
+<td>Sean Burnett*</td><td>0</td>
+
+<tr>
+<td>Andy Burns</td><td>0</td>
+
+<tr>
+<td>Billy Burns#</td><td>0</td>
+
+<tr>
+<td>Billy Burns#</td><td>0</td>
+
+<tr>
+<td>Emmanuel Burriss#</td><td>0</td>
+
+<tr>
+<td>Matt Buschmann</td><td>0</td>
+
+<tr>
+<td>Matt Bush</td><td>0</td>
+
+<tr>
+<td>Nick Buss*</td><td>1</td>
+
+<tr>
+<td>Drew Butera</td><td>4</td>
+
+<tr>
+<td>Billy Butler</td><td>4</td>
+
+<tr>
+<td>Billy Butler</td><td>1</td>
+
+<tr>
+<td>Eddie Butler</td><td>0</td>
+
+<tr>
+<td>Byron Buxton</td><td>10</td>
+
+<tr>
+<td>Marlon Byrd</td><td>5</td>
+
+<tr>
+<td>Asdrubal Cabrera#</td><td>23</td>
+
+<tr>
+<td>Mauricio Cabrera</td><td>0</td>
+
+<tr>
+<td>Melky Cabrera#</td><td>14</td>
+
+<tr>
+<td>Miguel Cabrera</td><td>38</td>
+
+<tr>
+<td>Ramon Cabrera#</td><td>3</td>
+
+<tr>
+<td>Trevor Cahill</td><td>0</td>
+
+<tr>
+<td>Lorenzo Cain</td><td>9</td>
+
+<tr>
+<td>Matt Cain</td><td>1</td>
+
+<tr>
+<td>Kole Calhoun*</td><td>18</td>
+
+<tr>
+<td>Arquimedes Caminero</td><td>0</td>
+
+<tr>
+<td>Eric Campbell</td><td>1</td>
+
+<tr>
+<td>Leonel Campos</td><td>0</td>
+
+<tr>
+<td>Vicente Campos</td><td>0</td>
+
+<tr>
+<td>Jeimer Candelario#</td><td>0</td>
+
+<tr>
+<td>Mark Canha</td><td>3</td>
+
+<tr>
+<td>Robinson Cano*</td><td>39</td>
+
+<tr>
+<td>Chris Capuano*</td><td>0</td>
+
+<tr>
+<td>Matt Carasiti</td><td>0</td>
+
+<tr>
+<td>Stephen Cardullo</td><td>2</td>
+
+<tr>
+<td>Matt Carpenter*</td><td>21</td>
+
+<tr>
+<td>Ezequiel Carrera*</td><td>6</td>
+
+<tr>
+<td>Chris Carter</td><td>41</td>
+
+<tr>
+<td>Curt Casali</td><td>8</td>
+
+<tr>
+<td>Andrew Cashner</td><td>0</td>
+
+<tr>
+<td>Andrew Cashner</td><td>0</td>
+
+<tr>
+<td>Santiago Casilla</td><td>0</td>
+
+<tr>
+<td>Nick Castellanos</td><td>18</td>
+
+<tr>
+<td>Rusney Castillo</td><td>0</td>
+
+<tr>
+<td>Welington Castillo</td><td>14</td>
+
+<tr>
+<td>Daniel Castro</td><td>0</td>
+
+<tr>
+<td>Jason Castro*</td><td>11</td>
+
+<tr>
+<td>Miguel Castro</td><td>0</td>
+
+<tr>
+<td>Starlin Castro</td><td>21</td>
+
+<tr>
+<td>Gavin Cecchini</td><td>0</td>
+
+<tr>
+<td>Brett Cecil</td><td>0</td>
+
+<tr>
+<td>Darrell Ceciliani*</td><td>0</td>
+
+<tr>
+<td>Xavier Cedeno*</td><td>0</td>
+
+<tr>
+<td>Juan Centeno*</td><td>3</td>
+
+<tr>
+<td>Francisco Cervelli</td><td>1</td>
+
+<tr>
+<td>Hunter Cervenka*</td><td>0</td>
+
+<tr>
+<td>Hunter Cervenka*</td><td>0</td>
+
+<tr>
+<td>Yoenis Cespedes</td><td>31</td>
+
+<tr>
+<td>Jhoulys Chacin</td><td>0</td>
+
+<tr>
+<td>Jhoulys Chacin</td><td>0</td>
+
+<tr>
+<td>Andrew Chafin</td><td>0</td>
+
+<tr>
+<td>Joba Chamberlain</td><td>0</td>
+
+<tr>
+<td>Aroldis Chapman*</td><td>0</td>
+
+<tr>
+<td>Aroldis Chapman*</td><td>0</td>
+
+<tr>
+<td>J.T. Chargois#</td><td>0</td>
+
+<tr>
+<td>Tyler Chatwood</td><td>0</td>
+
+<tr>
+<td>Jesse Chavez</td><td>0</td>
+
+<tr>
+<td>Jesse Chavez</td><td>0</td>
+
+<tr>
+<td>Wei-Yin Chen*</td><td>0</td>
+
+<tr>
+<td>Robinson Chirinos</td><td>9</td>
+
+<tr>
+<td>Lonnie Chisenhall*</td><td>8</td>
+
+<tr>
+<td>Ji-Man Choi*</td><td>5</td>
+
+<tr>
+<td>Shin-Soo Choo*</td><td>7</td>
+
+<tr>
+<td>Tony Cingrani*</td><td>0</td>
+
+<tr>
+<td>Steve Cishek</td><td>0</td>
+
+<tr>
+<td>Alex Claudio*</td><td>0</td>
+
+<tr>
+<td>Paul Clemens</td><td>0</td>
+
+<tr>
+<td>Paul Clemens</td><td>0</td>
+
+<tr>
+<td>Steve Clevenger*</td><td>1</td>
+
+<tr>
+<td>Mike Clevinger</td><td>0</td>
+
+<tr>
+<td>Tyler Clippard</td><td>0</td>
+
+<tr>
+<td>Tyler Clippard</td><td>0</td>
+
+<tr>
+<td>Jason Coats</td><td>1</td>
+
+<tr>
+<td>Chris Coghlan*</td><td>5</td>
+
+<tr>
+<td>Chris Coghlan*</td><td>1</td>
+
+<tr>
+<td>Phil Coke*</td><td>0</td>
+
+<tr>
+<td>Phil Coke*</td><td>0</td>
+
+<tr>
+<td>Chris Colabello</td><td>0</td>
+
+<tr>
+<td>A.J. Cole</td><td>0</td>
+
+<tr>
+<td>Gerrit Cole</td><td>1</td>
+
+<tr>
+<td>Louis Coleman</td><td>0</td>
+
+<tr>
+<td>Tyler Collins*</td><td>4</td>
+
+<tr>
+<td>Josh Collmenter</td><td>0</td>
+
+<tr>
+<td>Josh Collmenter</td><td>0</td>
+
+<tr>
+<td>Alex Colome</td><td>0</td>
+
+<tr>
+<td>Bartolo Colon</td><td>1</td>
+
+<tr>
+<td>Christian Colon</td><td>1</td>
+
+<tr>
+<td>Joseph Colon</td><td>0</td>
+
+<tr>
+<td>Gerardo Concepcion*</td><td>0</td>
+
+<tr>
+<td>Michael Conforto*</td><td>12</td>
+
+<tr>
+<td>Hank Conger#</td><td>3</td>
+
+<tr>
+<td>Adam Conley*</td><td>0</td>
+
+<tr>
+<td>Willson Contreras</td><td>12</td>
+
+<tr>
+<td>Patrick Corbin*</td><td>0</td>
+
+<tr>
+<td>Carlos Correa</td><td>20</td>
+
+<tr>
+<td>Jarred Cosart</td><td>0</td>
+
+<tr>
+<td>Jarred Cosart</td><td>0</td>
+
+<tr>
+<td>Caleb Cotham</td><td>0</td>
+
+<tr>
+<td>Daniel Coulombe*</td><td>0</td>
+
+<tr>
+<td>Kaleb Cowart#</td><td>1</td>
+
+<tr>
+<td>Collin Cowgill</td><td>0</td>
+
+<tr>
+<td>Zack Cozart</td><td>16</td>
+
+<tr>
+<td>Tyler Cravy</td><td>1</td>
+
+<tr>
+<td>Brandon Crawford*</td><td>12</td>
+
+<tr>
+<td>Carl Crawford*</td><td>0</td>
+
+<tr>
+<td>Coco Crisp#</td><td>11</td>
+
+<tr>
+<td>Coco Crisp#</td><td>2</td>
+
+<tr>
+<td>Kyle Crockett*</td><td>0</td>
+
+<tr>
+<td>C.J. Cron</td><td>16</td>
+
+<tr>
+<td>Nelson Cruz</td><td>43</td>
+
+<tr>
+<td>Tony Cruz</td><td>0</td>
+
+<tr>
+<td>Johnny Cueto</td><td>0</td>
+
+<tr>
+<td>Charlie Culberson</td><td>1</td>
+
+<tr>
+<td>Brandon Cunniff</td><td>0</td>
+
+<tr>
+<td>Todd Cunningham#</td><td>0</td>
+
+<tr>
+<td>Zac Curtis*</td><td>0</td>
+
+<tr>
+<td>Cheslor Cuthbert</td><td>12</td>
+
+<tr>
+<td>Chase d'Arnaud</td><td>1</td>
+
+<tr>
+<td>Travis d'Arnaud</td><td>4</td>
+
+<tr>
+<td>David Dahl*</td><td>7</td>
+
+<tr>
+<td>Yu Darvish</td><td>1</td>
+
+<tr>
+<td>Matt Davidson</td><td>0</td>
+
+<tr>
+<td>Zach Davies</td><td>0</td>
+
+<tr>
+<td>Chris Davis*</td><td>38</td>
+
+<tr>
+<td>Ike Davis*</td><td>0</td>
+
+<tr>
+<td>Khris Davis</td><td>42</td>
+
+<tr>
+<td>Rajai Davis</td><td>12</td>
+
+<tr>
+<td>Wade Davis</td><td>0</td>
+
+<tr>
+<td>Grant Dayton*</td><td>0</td>
+
+<tr>
+<td>Alejandro De Aza*</td><td>6</td>
+
+<tr>
+<td>Ivan De Jesus</td><td>1</td>
+
+<tr>
+<td>Joel De La Cruz#</td><td>0</td>
+
+<tr>
+<td>Jorge De La Rosa*</td><td>0</td>
+
+<tr>
+<td>Rubby De La Rosa</td><td>0</td>
+
+<tr>
+<td>Jose De Leon</td><td>0</td>
+
+<tr>
+<td>Abel De Los Santos</td><td>0</td>
+
+<tr>
+<td>Pat Dean*</td><td>0</td>
+
+<tr>
+<td>Jaff Decker*</td><td>0</td>
+
+<tr>
+<td>Jacob deGrom*</td><td>0</td>
+
+<tr>
+<td>Steve Delabar</td><td>0</td>
+
+<tr>
+<td>Randall Delgado</td><td>0</td>
+
+<tr>
+<td>Matt den Dekker*</td><td>1</td>
+
+<tr>
+<td>Daniel Descalso*</td><td>8</td>
+
+<tr>
+<td>Anthony DeSclafani</td><td>0</td>
+
+<tr>
+<td>Delino DeShields</td><td>4</td>
+
+<tr>
+<td>Ian Desmond</td><td>22</td>
+
+<tr>
+<td>Odrisamer Despaigne</td><td>0</td>
+
+<tr>
+<td>Odrisamer Despaigne</td><td>0</td>
+
+<tr>
+<td>Ross Detwiler</td><td>0</td>
+
+<tr>
+<td>Chris Devenski</td><td>0</td>
+
+<tr>
+<td>Aledmys Diaz</td><td>17</td>
+
+<tr>
+<td>Dayan Diaz</td><td>0</td>
+
+<tr>
+<td>Edwin Diaz</td><td>0</td>
+
+<tr>
+<td>Elias Diaz</td><td>0</td>
+
+<tr>
+<td>Jumbo Diaz</td><td>0</td>
+
+<tr>
+<td>Alex Dickerson*</td><td>10</td>
+
+<tr>
+<td>Corey Dickerson*</td><td>24</td>
+
+<tr>
+<td>R.A. Dickey</td><td>0</td>
+
+<tr>
+<td>Jake Diekman*</td><td>0</td>
+
+<tr>
+<td>Derek Dietrich*</td><td>7</td>
+
+<tr>
+<td>Wilmer Difo#</td><td>1</td>
+
+<tr>
+<td>Jose Dominguez</td><td>0</td>
+
+<tr>
+<td>Matt Dominguez</td><td>0</td>
+
+<tr>
+<td>Josh Donaldson</td><td>37</td>
+
+<tr>
+<td>Sean Doolittle*</td><td>0</td>
+
+<tr>
+<td>Brian Dozier</td><td>42</td>
+
+<tr>
+<td>Hunter Dozier</td><td>0</td>
+
+<tr>
+<td>Kyle Drabek</td><td>0</td>
+
+<tr>
+<td>Oliver Drake</td><td>0</td>
+
+<tr>
+<td>Stephen Drew*</td><td>8</td>
+
+<tr>
+<td>Brandon Drury</td><td>16</td>
+
+<tr>
+<td>Lucas Duda*</td><td>7</td>
+
+<tr>
+<td>Tyler Duffey</td><td>0</td>
+
+<tr>
+<td>Danny Duffy*</td><td>0</td>
+
+<tr>
+<td>Matt Duffy</td><td>4</td>
+
+<tr>
+<td>Matt Duffy</td><td>0</td>
+
+<tr>
+<td>Matt Duffy</td><td>1</td>
+
+<tr>
+<td>Zach Duke*</td><td>0</td>
+
+<tr>
+<td>Zach Duke*</td><td>0</td>
+
+<tr>
+<td>Ryan Dull</td><td>0</td>
+
+<tr>
+<td>Mike Dunn*</td><td>0</td>
+
+<tr>
+<td>Adam Duvall</td><td>33</td>
+
+<tr>
+<td>Jarrod Dyson*</td><td>1</td>
+
+<tr>
+<td>Sam Dyson</td><td>0</td>
+
+<tr>
+<td>Adam Eaton*</td><td>14</td>
+
+<tr>
+<td>Josh Edgin</td><td>0</td>
+
+<tr>
+<td>Carl Edwards</td><td>0</td>
+
+<tr>
+<td>Zach Eflin</td><td>0</td>
+
+<tr>
+<td>Cody Ege*</td><td>0</td>
+
+<tr>
+<td>Brett Eibner</td><td>3</td>
+
+<tr>
+<td>Brett Eibner</td><td>3</td>
+
+<tr>
+<td>Jerad Eickhoff</td><td>0</td>
+
+<tr>
+<td>Roenis Elias*</td><td>0</td>
+
+<tr>
+<td>Brian Ellington</td><td>0</td>
+
+<tr>
+<td>A.J. Ellis</td><td>1</td>
+
+<tr>
+<td>A.J. Ellis</td><td>1</td>
+
+<tr>
+<td>Jacoby Ellsbury*</td><td>9</td>
+
+<tr>
+<td>Jake Elmore</td><td>0</td>
+
+<tr>
+<td>Edwin Encarnacion</td><td>42</td>
+
+<tr>
+<td>Nathan Eovaldi</td><td>0</td>
+
+<tr>
+<td>Robbie Erlin</td><td>0</td>
+
+<tr>
+<td>Jake Esch</td><td>0</td>
+
+<tr>
+<td>Alcides Escobar</td><td>7</td>
+
+<tr>
+<td>Eduardo Escobar#</td><td>6</td>
+
+<tr>
+<td>Edwin Escobar*</td><td>0</td>
+
+<tr>
+<td>Yunel Escobar</td><td>5</td>
+
+<tr>
+<td>Danny Espinosa#</td><td>24</td>
+
+<tr>
+<td>Carlos Estevez</td><td>0</td>
+
+<tr>
+<td>Marco Estrada</td><td>0</td>
+
+<tr>
+<td>Andre Ethier*</td><td>1</td>
+
+<tr>
+<td>Dana Eveland*</td><td>0</td>
+
+<tr>
+<td>Jeurys Familia</td><td>0</td>
+
+<tr>
+<td>Taylor Featherston</td><td>0</td>
+
+<tr>
+<td>Tim Federowicz</td><td>0</td>
+
+<tr>
+<td>Scott Feldman*</td><td>0</td>
+
+<tr>
+<td>Michael Feliz</td><td>0</td>
+
+<tr>
+<td>Neftali Feliz</td><td>0</td>
+
+<tr>
+<td>Jose Fernandez</td><td>0</td>
+
+<tr>
+<td>Prince Fielder*</td><td>8</td>
+
+<tr>
+<td>Josh Fields</td><td>0</td>
+
+<tr>
+<td>Josh Fields</td><td>0</td>
+
+<tr>
+<td>Casey Fien</td><td>0</td>
+
+<tr>
+<td>Casey Fien</td><td>0</td>
+
+<tr>
+<td>Cole Figueroa*</td><td>0</td>
+
+<tr>
+<td>Brandon Finnegan*</td><td>0</td>
+
+<tr>
+<td>Doug Fister*</td><td>0</td>
+
+<tr>
+<td>Ryan Flaherty*</td><td>3</td>
+
+<tr>
+<td>Yohan Flande*</td><td>0</td>
+
+<tr>
+<td>Kendry Flores</td><td>0</td>
+
+<tr>
+<td>Ramon Flores*</td><td>2</td>
+
+<tr>
+<td>Wilmer Flores</td><td>16</td>
+
+<tr>
+<td>Pedro Florimon#</td><td>0</td>
+
+<tr>
+<td>Dylan Floro*</td><td>0</td>
+
+<tr>
+<td>Tyler Flowers</td><td>8</td>
+
+<tr>
+<td>Gavin Floyd</td><td>0</td>
+
+<tr>
+<td>Brian Flynn*</td><td>0</td>
+
+<tr>
+<td>Mike Foltynewicz</td><td>0</td>
+
+<tr>
+<td>Logan Forsythe</td><td>20</td>
+
+<tr>
+<td>Dexter Fowler#</td><td>13</td>
+
+<tr>
+<td>Maikel Franco</td><td>25</td>
+
+<tr>
+<td>Jeff Francoeur</td><td>7</td>
+
+<tr>
+<td>Jeff Francoeur</td><td>0</td>
+
+<tr>
+<td>Nick Franklin#</td><td>6</td>
+
+<tr>
+<td>Adam Frazier*</td><td>2</td>
+
+<tr>
+<td>Todd Frazier</td><td>40</td>
+
+<tr>
+<td>Freddie Freeman*</td><td>34</td>
+
+<tr>
+<td>Mike Freeman*</td><td>0</td>
+
+<tr>
+<td>Mike Freeman*</td><td>0</td>
+
+<tr>
+<td>Sam Freeman</td><td>0</td>
+
+<tr>
+<td>David Freese</td><td>13</td>
+
+<tr>
+<td>Carlos Frias</td><td>0</td>
+
+<tr>
+<td>Christian Friedrich</td><td>0</td>
+
+<tr>
+<td>Eric Fryer</td><td>0</td>
+
+<tr>
+<td>Eric Fryer</td><td>0</td>
+
+<tr>
+<td>Reymond Fuentes*</td><td>0</td>
+
+<tr>
+<td>Carson Fulmer</td><td>0</td>
+
+<tr>
+<td>Michael Fulmer</td><td>0</td>
+
+<tr>
+<td>Yovani Gallardo</td><td>0</td>
+
+<tr>
+<td>Joey Gallo*</td><td>1</td>
+
+<tr>
+<td>Freddy Galvis#</td><td>20</td>
+
+<tr>
+<td>Ben Gamel*</td><td>0</td>
+
+<tr>
+<td>Ben Gamel*</td><td>1</td>
+
+<tr>
+<td>John Gant</td><td>0</td>
+
+<tr>
+<td>Adonis Garcia</td><td>14</td>
+
+<tr>
+<td>Avisail Garcia</td><td>12</td>
+
+<tr>
+<td>Greg Garcia*</td><td>3</td>
+
+<tr>
+<td>Jaime Garcia*</td><td>0</td>
+
+<tr>
+<td>Leury Garcia#</td><td>1</td>
+
+<tr>
+<td>Luis Garcia</td><td>0</td>
+
+<tr>
+<td>Yimi Garcia</td><td>0</td>
+
+<tr>
+<td>Brett Gardner*</td><td>7</td>
+
+<tr>
+<td>Dustin Garneau</td><td>1</td>
+
+<tr>
+<td>Ryan Garton</td><td>0</td>
+
+<tr>
+<td>Matt Garza</td><td>0</td>
+
+<tr>
+<td>Evan Gattis</td><td>32</td>
+
+<tr>
+<td>Kevin Gausman*</td><td>0</td>
+
+<tr>
+<td>Cory Gearrin</td><td>0</td>
+
+<tr>
+<td>Dillon Gee</td><td>0</td>
+
+<tr>
+<td>Scooter Gennett*</td><td>14</td>
+
+<tr>
+<td>Craig Gentry</td><td>0</td>
+
+<tr>
+<td>Gonzalez Germen</td><td>0</td>
+
+<tr>
+<td>Johnny Giavotella</td><td>6</td>
+
+<tr>
+<td>Kyle Gibson</td><td>0</td>
+
+<tr>
+<td>Ken Giles</td><td>0</td>
+
+<tr>
+<td>Conor Gillaspie*</td><td>6</td>
+
+<tr>
+<td>Cole Gillespie</td><td>0</td>
+
+<tr>
+<td>Sean Gilmartin*</td><td>0</td>
+
+<tr>
+<td>Chris Gimenez</td><td>4</td>
+
+<tr>
+<td>Lucas Giolito</td><td>0</td>
+
+<tr>
+<td>Chad Girodo*</td><td>0</td>
+
+<tr>
+<td>Mychal Givens</td><td>0</td>
+
+<tr>
+<td>Tyler Glasnow*</td><td>0</td>
+
+<tr>
+<td>Koda Glover</td><td>0</td>
+
+<tr>
+<td>Zack Godley</td><td>0</td>
+
+<tr>
+<td>Erik Goeddel</td><td>0</td>
+
+<tr>
+<td>Tyler Goeddel</td><td>4</td>
+
+<tr>
+<td>David Goforth</td><td>0</td>
+
+<tr>
+<td>Ryan Goins*</td><td>3</td>
+
+<tr>
+<td>Paul Goldschmidt</td><td>24</td>
+
+<tr>
+<td>Yan Gomes</td><td>9</td>
+
+<tr>
+<td>Carlos Gomez</td><td>5</td>
+
+<tr>
+<td>Carlos Gomez</td><td>8</td>
+
+<tr>
+<td>Jeanmar Gomez</td><td>0</td>
+
+<tr>
+<td>Adrian Gonzalez*</td><td>18</td>
+
+<tr>
+<td>Carlos Gonzalez*</td><td>25</td>
+
+<tr>
+<td>Erik Gonzalez</td><td>0</td>
+
+<tr>
+<td>Gio Gonzalez</td><td>0</td>
+
+<tr>
+<td>Marwin Gonzalez#</td><td>13</td>
+
+<tr>
+<td>Miguel Gonzalez</td><td>0</td>
+
+<tr>
+<td>Severino Gonzalez</td><td>0</td>
+
+<tr>
+<td>Brian Goodwin*</td><td>0</td>
+
+<tr>
+<td>Nick Goody</td><td>0</td>
+
+<tr>
+<td>Alex Gordon*</td><td>17</td>
+
+<tr>
+<td>Dee Gordon*</td><td>1</td>
+
+<tr>
+<td>Terrance Gore</td><td>0</td>
+
+<tr>
+<td>Tom Gorzelanny</td><td>0</td>
+
+<tr>
+<td>Anthony Gose*</td><td>2</td>
+
+<tr>
+<td>Tuffy Gosewisch</td><td>3</td>
+
+<tr>
+<td>Philip Gosselin</td><td>2</td>
+
+<tr>
+<td>Trevor Gott</td><td>0</td>
+
+<tr>
+<td>Matt Grace*</td><td>0</td>
+
+<tr>
+<td>Yasmani Grandal#</td><td>27</td>
+
+<tr>
+<td>Curtis Granderson*</td><td>30</td>
+
+<tr>
+<td>Juan Graterol</td><td>0</td>
+
+<tr>
+<td>Kendall Graveman</td><td>0</td>
+
+<tr>
+<td>Jon Gray</td><td>0</td>
+
+<tr>
+<td>Sonny Gray</td><td>0</td>
+
+<tr>
+<td>Chad Green*</td><td>0</td>
+
+<tr>
+<td>Grant Green</td><td>1</td>
+
+<tr>
+<td>Shane Greene</td><td>0</td>
+
+<tr>
+<td>Luke Gregerson*</td><td>0</td>
+
+<tr>
+<td>Didi Gregorius*</td><td>20</td>
+
+<tr>
+<td>Zack Greinke</td><td>0</td>
+
+<tr>
+<td>Randal Grichuk</td><td>24</td>
+
+<tr>
+<td>A.J. Griffin</td><td>0</td>
+
+<tr>
+<td>Jason Grilli</td><td>0</td>
+
+<tr>
+<td>Jason Grilli</td><td>0</td>
+
+<tr>
+<td>Justin Grimm</td><td>0</td>
+
+<tr>
+<td>Robbie Grossman#</td><td>11</td>
+
+<tr>
+<td>Robert Gsellman</td><td>0</td>
+
+<tr>
+<td>Deolis Guerra</td><td>0</td>
+
+<tr>
+<td>Javy Guerra</td><td>0</td>
+
+<tr>
+<td>Junior Guerra</td><td>0</td>
+
+<tr>
+<td>Tayron Guerrero</td><td>0</td>
+
+<tr>
+<td>Jason Gurka*</td><td>0</td>
+
+<tr>
+<td>Yulieski Gurriel</td><td>3</td>
+
+<tr>
+<td>Franklin Gutierrez</td><td>14</td>
+
+<tr>
+<td>Brandon Guyer</td><td>7</td>
+
+<tr>
+<td>Brandon Guyer</td><td>2</td>
+
+<tr>
+<td>Jedd Gyorko</td><td>30</td>
+
+<tr>
+<td>Jesse Hahn</td><td>0</td>
+
+<tr>
+<td>David Hale</td><td>0</td>
+
+<tr>
+<td>Cody Hall</td><td>0</td>
+
+<tr>
+<td>Cole Hamels*</td><td>0</td>
+
+<tr>
+<td>Billy Hamilton#</td><td>3</td>
+
+<tr>
+<td>Jason Hammel</td><td>0</td>
+
+<tr>
+<td>Brad Hand*</td><td>0</td>
+
+<tr>
+<td>Ryan Hanigan</td><td>1</td>
+
+<tr>
+<td>Mitch Haniger</td><td>5</td>
+
+<tr>
+<td>Alen Hanson#</td><td>0</td>
+
+<tr>
+<td>J.A. Happ*</td><td>0</td>
+
+<tr>
+<td>J.J. Hardy</td><td>9</td>
+
+<tr>
+<td>Bryce Harper*</td><td>24</td>
+
+<tr>
+<td>Lucas Harrell#</td><td>0</td>
+
+<tr>
+<td>Will Harris</td><td>0</td>
+
+<tr>
+<td>Josh Harrison</td><td>4</td>
+
+<tr>
+<td>Donnie Hart*</td><td>0</td>
+
+<tr>
+<td>Matt Harvey</td><td>0</td>
+
+<tr>
+<td>Chris Hatcher#</td><td>0</td>
+
+<tr>
+<td>Steve Hathaway*</td><td>0</td>
+
+<tr>
+<td>Drew Hayes</td><td>0</td>
+
+<tr>
+<td>Jeremy Hazelbaker*</td><td>12</td>
+
+<tr>
+<td>Chase Headley#</td><td>14</td>
+
+<tr>
+<td>Ryon Healy</td><td>13</td>
+
+<tr>
+<td>Adeiny Hechavarria</td><td>3</td>
+
+<tr>
+<td>Austin Hedges</td><td>0</td>
+
+<tr>
+<td>Chris Heisey</td><td>9</td>
+
+<tr>
+<td>Jeremy Hellickson</td><td>0</td>
+
+<tr>
+<td>Heath Hembree</td><td>0</td>
+
+<tr>
+<td>Jim Henderson*</td><td>0</td>
+
+<tr>
+<td>Kyle Hendricks</td><td>0</td>
+
+<tr>
+<td>Liam Hendriks</td><td>0</td>
+
+<tr>
+<td>Guillermo Heredia</td><td>1</td>
+
+<tr>
+<td>Cesar Hernandez#</td><td>6</td>
+
+<tr>
+<td>David Hernandez</td><td>0</td>
+
+<tr>
+<td>Enrique Hernandez</td><td>7</td>
+
+<tr>
+<td>Felix Hernandez</td><td>0</td>
+
+<tr>
+<td>Gorkys Hernandez</td><td>2</td>
+
+<tr>
+<td>Marco Hernandez*</td><td>1</td>
+
+<tr>
+<td>Oscar Hernandez</td><td>1</td>
+
+<tr>
+<td>Roberto Hernandez</td><td>0</td>
+
+<tr>
+<td>Teoscar Hernandez</td><td>4</td>
+
+<tr>
+<td>Kelvin Herrera</td><td>0</td>
+
+<tr>
+<td>Odubel Herrera*</td><td>15</td>
+
+<tr>
+<td>Chris Herrmann*</td><td>6</td>
+
+<tr>
+<td>Frank Herrmann*</td><td>0</td>
+
+<tr>
+<td>Keith Hessler*</td><td>0</td>
+
+<tr>
+<td>Keith Hessler*</td><td>0</td>
+
+<tr>
+<td>Chris Heston</td><td>0</td>
+
+<tr>
+<td>Jason Heyward*</td><td>7</td>
+
+<tr>
+<td>Aaron Hicks#</td><td>8</td>
+
+<tr>
+<td>John Hicks</td><td>0</td>
+
+<tr>
+<td>Aaron Hill</td><td>8</td>
+
+<tr>
+<td>Aaron Hill</td><td>2</td>
+
+<tr>
+<td>Rich Hill*</td><td>0</td>
+
+<tr>
+<td>Dalier Hinojosa</td><td>0</td>
+
+<tr>
+<td>Luke Hochevar</td><td>0</td>
+
+<tr>
+<td>Jeff Hoffman</td><td>0</td>
+
+<tr>
+<td>Bryan Holaday</td><td>2</td>
+
+<tr>
+<td>Bryan Holaday</td><td>0</td>
+
+<tr>
+<td>Derek Holland#</td><td>0</td>
+
+<tr>
+<td>Matt Holliday</td><td>20</td>
+
+<tr>
+<td>Brock Holt*</td><td>7</td>
+
+<tr>
+<td>Tyler Holt</td><td>0</td>
+
+<tr>
+<td>Destin Hood</td><td>1</td>
+
+<tr>
+<td>J.J. Hoover</td><td>0</td>
+
+<tr>
+<td>Eric Hosmer*</td><td>25</td>
+
+<tr>
+<td>Ryan Howard*</td><td>25</td>
+
+<tr>
+<td>J.P. Howell*</td><td>0</td>
+
+<tr>
+<td>Jared Hoying*</td><td>0</td>
+
+<tr>
+<td>James Hoyt</td><td>0</td>
+
+<tr>
+<td>Daniel Hudson</td><td>0</td>
+
+<tr>
+<td>Jared Hughes</td><td>0</td>
+
+<tr>
+<td>Phil Hughes</td><td>0</td>
+
+<tr>
+<td>Nick Hundley</td><td>10</td>
+
+<tr>
+<td>Cedric Hunter*</td><td>1</td>
+
+<tr>
+<td>Tommy Hunter</td><td>0</td>
+
+<tr>
+<td>Jason Hursh</td><td>0</td>
+
+<tr>
+<td>Drew Hutchison*</td><td>0</td>
+
+<tr>
+<td>Chris Iannetta</td><td>7</td>
+
+<tr>
+<td>Jose Iglesias</td><td>4</td>
+
+<tr>
+<td>Raisel Iglesias</td><td>0</td>
+
+<tr>
+<td>Ender Inciarte*</td><td>3</td>
+
+<tr>
+<td>Omar Infante</td><td>0</td>
+
+<tr>
+<td>Hernan Iribarren*</td><td>0</td>
+
+<tr>
+<td>Hisashi Iwakuma</td><td>0</td>
+
+<tr>
+<td>Austin Jackson</td><td>0</td>
+
+<tr>
+<td>Edwin Jackson</td><td>0</td>
+
+<tr>
+<td>Edwin Jackson</td><td>0</td>
+
+<tr>
+<td>Paul Janish</td><td>0</td>
+
+<tr>
+<td>Travis Jankowski*</td><td>2</td>
+
+<tr>
+<td>Kenley Jansen#</td><td>0</td>
+
+<tr>
+<td>John Jaso*</td><td>8</td>
+
+<tr>
+<td>Jon Jay*</td><td>2</td>
+
+<tr>
+<td>Jeremy Jeffress</td><td>0</td>
+
+<tr>
+<td>Jeremy Jeffress</td><td>0</td>
+
+<tr>
+<td>Tyrell Jenkins</td><td>0</td>
+
+<tr>
+<td>Dan Jennings*</td><td>0</td>
+
+<tr>
+<td>Desmond Jennings</td><td>7</td>
+
+<tr>
+<td>Kyle Jensen</td><td>2</td>
+
+<tr>
+<td>Kevin Jepsen</td><td>0</td>
+
+<tr>
+<td>Kevin Jepsen</td><td>0</td>
+
+<tr>
+<td>Ubaldo Jimenez</td><td>0</td>
+
+<tr>
+<td>Chris Johnson</td><td>5</td>
+
+<tr>
+<td>Erik Johnson</td><td>0</td>
+
+<tr>
+<td>Jim Johnson</td><td>0</td>
+
+<tr>
+<td>Kelly Johnson*</td><td>1</td>
+
+<tr>
+<td>Kelly Johnson*</td><td>9</td>
+
+<tr>
+<td>Micah Johnson*</td><td>0</td>
+
+<tr>
+<td>Steve Johnson</td><td>0</td>
+
+<tr>
+<td>Adam Jones</td><td>29</td>
+
+<tr>
+<td>JaCoby Jones</td><td>0</td>
+
+<tr>
+<td>Nate Jones</td><td>0</td>
+
+<tr>
+<td>Caleb Joseph</td><td>0</td>
+
+<tr>
+<td>Tommy Joseph</td><td>21</td>
+
+<tr>
+<td>Matthew Joyce*</td><td>13</td>
+
+<tr>
+<td>Aaron Judge</td><td>4</td>
+
+<tr>
+<td>Taylor Jungmann</td><td>0</td>
+
+<tr>
+<td>Tommy Kahnle</td><td>0</td>
+
+<tr>
+<td>Ryan Kalish*</td><td>0</td>
+
+<tr>
+<td>Jung Ho Kang</td><td>21</td>
+
+<tr>
+<td>Nate Karns</td><td>0</td>
+
+<tr>
+<td>Munenori Kawasaki*</td><td>0</td>
+
+<tr>
+<td>Scott Kazmir*</td><td>0</td>
+
+<tr>
+<td>Keone Kela</td><td>0</td>
+
+<tr>
+<td>Shawn Kelley</td><td>0</td>
+
+<tr>
+<td>Carson Kelly</td><td>0</td>
+
+<tr>
+<td>Casey Kelly</td><td>0</td>
+
+<tr>
+<td>Don Kelly*</td><td>0</td>
+
+<tr>
+<td>Joe Kelly</td><td>0</td>
+
+<tr>
+<td>Ty Kelly#</td><td>1</td>
+
+<tr>
+<td>Matt Kemp</td><td>23</td>
+
+<tr>
+<td>Matt Kemp</td><td>12</td>
+
+<tr>
+<td>Tony Kemp*</td><td>1</td>
+
+<tr>
+<td>Howie Kendrick</td><td>8</td>
+
+<tr>
+<td>Ian Kennedy</td><td>0</td>
+
+<tr>
+<td>Logan Kensing</td><td>0</td>
+
+<tr>
+<td>Max Kepler*</td><td>17</td>
+
+<tr>
+<td>Clayton Kershaw*</td><td>0</td>
+
+<tr>
+<td>Dallas Keuchel*</td><td>0</td>
+
+<tr>
+<td>Spencer Kieboom</td><td>0</td>
+
+<tr>
+<td>Dean Kiekhefer*</td><td>0</td>
+
+<tr>
+<td>Kevin Kiermaier*</td><td>12</td>
+
+<tr>
+<td>Hyun Soo Kim*</td><td>6</td>
+
+<tr>
+<td>Craig Kimbrel</td><td>0</td>
+
+<tr>
+<td>Ian Kinsler</td><td>28</td>
+
+<tr>
+<td>Brandon Kintzler</td><td>0</td>
+
+<tr>
+<td>Jason Kipnis*</td><td>23</td>
+
+<tr>
+<td>Michael Kirkman*</td><td>0</td>
+
+<tr>
+<td>Michael Kirkman*</td><td>0</td>
+
+<tr>
+<td>Patrick Kivlehan</td><td>1</td>
+
+<tr>
+<td>Patrick Kivlehan</td><td>0</td>
+
+<tr>
+<td>Phil Klein</td><td>0</td>
+
+<tr>
+<td>Corey Kluber</td><td>0</td>
+
+<tr>
+<td>Corey Knebel</td><td>0</td>
+
+<tr>
+<td>Matt Koch*</td><td>0</td>
+
+<tr>
+<td>Tom Koehler</td><td>0</td>
+
+<tr>
+<td>George Kontos</td><td>0</td>
+
+<tr>
+<td>Erik Kratz</td><td>0</td>
+
+<tr>
+<td>Erik Kratz</td><td>1</td>
+
+<tr>
+<td>Ian Krol*</td><td>0</td>
+
+<tr>
+<td>Chad Kuhl</td><td>0</td>
+
+<tr>
+<td>Tommy La Stella*</td><td>2</td>
+
+<tr>
+<td>John Lackey</td><td>0</td>
+
+<tr>
+<td>Tyler Ladendorf</td><td>0</td>
+
+<tr>
+<td>Juan Lagares</td><td>3</td>
+
+<tr>
+<td>Junior Lake</td><td>1</td>
+
+<tr>
+<td>Blake Lalli*</td><td>0</td>
+
+<tr>
+<td>Ryan LaMarre</td><td>0</td>
+
+<tr>
+<td>Jake Lamb*</td><td>29</td>
+
+<tr>
+<td>John Lamb*</td><td>0</td>
+
+<tr>
+<td>Andrew Lambo*</td><td>0</td>
+
+<tr>
+<td>Mat Latos</td><td>0</td>
+
+<tr>
+<td>Mat Latos</td><td>1</td>
+
+<tr>
+<td>Derek Law</td><td>0</td>
+
+<tr>
+<td>Brett Lawrie</td><td>12</td>
+
+<tr>
+<td>Mike Leake</td><td>0</td>
+
+<tr>
+<td>Wade LeBlanc*</td><td>0</td>
+
+<tr>
+<td>Jose Leclerc</td><td>0</td>
+
+<tr>
+<td>Dae-ho Lee</td><td>14</td>
+
+<tr>
+<td>DJ LeMahieu</td><td>11</td>
+
+<tr>
+<td>Sandy Leon#</td><td>7</td>
+
+<tr>
+<td>Dominic Leone</td><td>0</td>
+
+<tr>
+<td>Jon Lester*</td><td>0</td>
+
+<tr>
+<td>Adam Liberatore*</td><td>0</td>
+
+<tr>
+<td>Pat Light</td><td>0</td>
+
+<tr>
+<td>Pat Light</td><td>0</td>
+
+<tr>
+<td>Adam Lind*</td><td>20</td>
+
+<tr>
+<td>Francisco Lindor#</td><td>15</td>
+
+<tr>
+<td>Francisco Liriano*</td><td>1</td>
+
+<tr>
+<td>Jose Lobaton#</td><td>3</td>
+
+<tr>
+<td>Kyle Lobstein*</td><td>0</td>
+
+<tr>
+<td>Jeff Locke*</td><td>0</td>
+
+<tr>
+<td>Adam Loewen*</td><td>0</td>
+
+<tr>
+<td>Boone Logan</td><td>0</td>
+
+<tr>
+<td>James Loney*</td><td>9</td>
+
+<tr>
+<td>Evan Longoria</td><td>36</td>
+
+<tr>
+<td>Javier Lopez*</td><td>0</td>
+
+<tr>
+<td>Rafael Lopez*</td><td>0</td>
+
+<tr>
+<td>Reynaldo Lopez</td><td>0</td>
+
+<tr>
+<td>Michael Lorenzen</td><td>1</td>
+
+<tr>
+<td>David Lough*</td><td>0</td>
+
+<tr>
+<td>Mark Lowe*</td><td>0</td>
+
+<tr>
+<td>Jed Lowrie#</td><td>2</td>
+
+<tr>
+<td>Jonathan Lucroy</td><td>13</td>
+
+<tr>
+<td>Jonathan Lucroy</td><td>11</td>
+
+<tr>
+<td>Cory Luebke</td><td>0</td>
+
+<tr>
+<td>Seth Lugo</td><td>0</td>
+
+<tr>
+<td>Jordan Lyles</td><td>0</td>
+
+<tr>
+<td>Tyler Lyons*</td><td>0</td>
+
+<tr>
+<td>Dixon Machado</td><td>0</td>
+
+<tr>
+<td>Manny Machado</td><td>37</td>
+
+<tr>
+<td>Ryan Madson*</td><td>0</td>
+
+<tr>
+<td>Kenta Maeda</td><td>1</td>
+
+<tr>
+<td>Matt Magill</td><td>0</td>
+
+<tr>
+<td>Damien Magnifico</td><td>0</td>
+
+<tr>
+<td>Greg Mahle*</td><td>0</td>
+
+<tr>
+<td>Mikie Mahtook</td><td>3</td>
+
+<tr>
+<td>Luke Maile</td><td>3</td>
+
+<tr>
+<td>Martin Maldonado</td><td>8</td>
+
+<tr>
+<td>Sean Manaea*</td><td>0</td>
+
+<tr>
+<td>Trey Mancini</td><td>3</td>
+
+<tr>
+<td>Seth Maness</td><td>0</td>
+
+<tr>
+<td>Jeff Manship</td><td>0</td>
+
+<tr>
+<td>Manuel Margot</td><td>0</td>
+
+<tr>
+<td>Jhan Marinez</td><td>0</td>
+
+<tr>
+<td>Michael Mariot</td><td>0</td>
+
+<tr>
+<td>Jake Marisnick</td><td>5</td>
+
+<tr>
+<td>Nick Markakis*</td><td>13</td>
+
+<tr>
+<td>Matt Marksberry*</td><td>0</td>
+
+<tr>
+<td>German Marquez</td><td>0</td>
+
+<tr>
+<td>Deven Marrero</td><td>0</td>
+
+<tr>
+<td>Evan Marshall</td><td>0</td>
+
+<tr>
+<td>Jefry Marte</td><td>15</td>
+
+<tr>
+<td>Kelvin Marte</td><td>0</td>
+
+<tr>
+<td>Ketel Marte#</td><td>1</td>
+
+<tr>
+<td>Starling Marte</td><td>9</td>
+
+<tr>
+<td>Cody Martin</td><td>0</td>
+
+<tr>
+<td>Leonys Martin*</td><td>15</td>
+
+<tr>
+<td>Rafael Martin</td><td>0</td>
+
+<tr>
+<td>Russell Martin</td><td>20</td>
+
+<tr>
+<td>Carlos Martinez</td><td>0</td>
+
+<tr>
+<td>J.D. Martinez</td><td>22</td>
+
+<tr>
+<td>Jose Martinez</td><td>0</td>
+
+<tr>
+<td>Michael Martinez#</td><td>0</td>
+
+<tr>
+<td>Michael Martinez#</td><td>1</td>
+
+<tr>
+<td>Nick Martinez*</td><td>0</td>
+
+<tr>
+<td>Victor Martinez#</td><td>27</td>
+
+<tr>
+<td>Darin Mastroianni</td><td>0</td>
+
+<tr>
+<td>Jeff Mathis</td><td>2</td>
+
+<tr>
+<td>Brian Matusz*</td><td>0</td>
+
+<tr>
+<td>Steven Matz</td><td>0</td>
+
+<tr>
+<td>Joe Mauer*</td><td>11</td>
+
+<tr>
+<td>Brandon Maurer</td><td>0</td>
+
+<tr>
+<td>Bruce Maxwell*</td><td>1</td>
+
+<tr>
+<td>Trevor May</td><td>0</td>
+
+<tr>
+<td>Cameron Maybin</td><td>4</td>
+
+<tr>
+<td>Mike Mayers</td><td>0</td>
+
+<tr>
+<td>Nomar Mazara*</td><td>20</td>
+
+<tr>
+<td>Vin Mazzaro</td><td>0</td>
+
+<tr>
+<td>Zach McAllister</td><td>0</td>
+
+<tr>
+<td>Matt McBride</td><td>0</td>
+
+<tr>
+<td>Brian McCann*</td><td>20</td>
+
+<tr>
+<td>James McCann</td><td>12</td>
+
+<tr>
+<td>Brandon McCarthy</td><td>0</td>
+
+<tr>
+<td>Lance McCullers*</td><td>0</td>
+
+<tr>
+<td>Andrew McCutchen</td><td>24</td>
+
+<tr>
+<td>T.J. McFarland*</td><td>0</td>
+
+<tr>
+<td>Jake McGee*</td><td>0</td>
+
+<tr>
+<td>Casey McGehee</td><td>0</td>
+
+<tr>
+<td>Dustin McGowan</td><td>0</td>
+
+<tr>
+<td>Collin McHugh</td><td>0</td>
+
+<tr>
+<td>Michael McKenry</td><td>0</td>
+
+<tr>
+<td>Mark Melancon</td><td>0</td>
+
+<tr>
+<td>Mark Melancon</td><td>0</td>
+
+<tr>
+<td>Tim Melville</td><td>0</td>
+
+<tr>
+<td>Daniel Mengden</td><td>0</td>
+
+<tr>
+<td>Jordy Mercer</td><td>11</td>
+
+<tr>
+<td>Whit Merrifield</td><td>2</td>
+
+<tr>
+<td>Devin Mesoraco</td><td>0</td>
+
+<tr>
+<td>Will Middlebrooks</td><td>0</td>
+
+<tr>
+<td>Wade Miley*</td><td>0</td>
+
+<tr>
+<td>Wade Miley*</td><td>0</td>
+
+<tr>
+<td>Andrew Miller*</td><td>0</td>
+
+<tr>
+<td>Andrew Miller*</td><td>0</td>
+
+<tr>
+<td>Brad Miller*</td><td>30</td>
+
+<tr>
+<td>Justin Miller</td><td>0</td>
+
+<tr>
+<td>Mike Miller</td><td>0</td>
+
+<tr>
+<td>Shelby Miller</td><td>0</td>
+
+<tr>
+<td>Tommy Milone*</td><td>0</td>
+
+<tr>
+<td>Juan Minaya</td><td>0</td>
+
+<tr>
+<td>Yadier Molina</td><td>8</td>
+
+<tr>
+<td>Yoan Moncada#</td><td>0</td>
+
+<tr>
+<td>Raul Mondesi#</td><td>2</td>
+
+<tr>
+<td>Miguel Montero*</td><td>8</td>
+
+<tr>
+<td>Rafael Montero</td><td>0</td>
+
+<tr>
+<td>Mike Montgomery*</td><td>0</td>
+
+<tr>
+<td>Mike Montgomery*</td><td>0</td>
+
+<tr>
+<td>Adam Moore</td><td>0</td>
+
+<tr>
+<td>Matt Moore*</td><td>0</td>
+
+<tr>
+<td>Matt Moore*</td><td>0</td>
+
+<tr>
+<td>Franklin Morales*</td><td>0</td>
+
+<tr>
+<td>Kendrys Morales#</td><td>30</td>
+
+<tr>
+<td>Colin Moran*</td><td>0</td>
+
+<tr>
+<td>Mitch Moreland*</td><td>22</td>
+
+<tr>
+<td>Adam Morgan*</td><td>0</td>
+
+<tr>
+<td>Mike Morin</td><td>0</td>
+
+<tr>
+<td>Justin Morneau*</td><td>6</td>
+
+<tr>
+<td>Max Moroff#</td><td>0</td>
+
+<tr>
+<td>A.J. Morris</td><td>0</td>
+
+<tr>
+<td>Bryan Morris*</td><td>0</td>
+
+<tr>
+<td>Logan Morrison*</td><td>14</td>
+
+<tr>
+<td>Brandon Morrow</td><td>0</td>
+
+<tr>
+<td>Mike Morse</td><td>0</td>
+
+<tr>
+<td>Charlie Morton</td><td>0</td>
+
+<tr>
+<td>Jon Moscot</td><td>0</td>
+
+<tr>
+<td>Brandon Moss*</td><td>28</td>
+
+<tr>
+<td>Jason Motte</td><td>0</td>
+
+<tr>
+<td>Taylor Motter</td><td>2</td>
+
+<tr>
+<td>Mike Moustakas*</td><td>7</td>
+
+<tr>
+<td>Steven Moya*</td><td>5</td>
+
+<tr>
+<td>Peter Moylan</td><td>0</td>
+
+<tr>
+<td>Conor Mullee</td><td>0</td>
+
+<tr>
+<td>Max Muncy*</td><td>2</td>
+
+<tr>
+<td>Daniel Murphy*</td><td>25</td>
+
+<tr>
+<td>John Ryan Murphy</td><td>1</td>
+
+<tr>
+<td>Tom Murphy</td><td>5</td>
+
+<tr>
+<td>Colton Murray</td><td>0</td>
+
+<tr>
+<td>Joseph Musgrove</td><td>0</td>
+
+<tr>
+<td>Wil Myers</td><td>28</td>
+
+<tr>
+<td>Mike Napoli</td><td>34</td>
+
+<tr>
+<td>Tyler Naquin*</td><td>14</td>
+
+<tr>
+<td>Omar Narvaez*</td><td>1</td>
+
+<tr>
+<td>Chris Narveson*</td><td>0</td>
+
+<tr>
+<td>Joe Nathan</td><td>0</td>
+
+<tr>
+<td>Joe Nathan</td><td>0</td>
+
+<tr>
+<td>Daniel Nava#</td><td>1</td>
+
+<tr>
+<td>Daniel Nava#</td><td>0</td>
+
+<tr>
+<td>Dioner Navarro#</td><td>6</td>
+
+<tr>
+<td>Dioner Navarro#</td><td>0</td>
+
+<tr>
+<td>Zach Neal</td><td>0</td>
+
+<tr>
+<td>Jimmy Nelson</td><td>0</td>
+
+<tr>
+<td>Hector Neris</td><td>0</td>
+
+<tr>
+<td>Pat Neshek#</td><td>0</td>
+
+<tr>
+<td>Juan Nicasio</td><td>0</td>
+
+<tr>
+<td>Brett Nicholas*</td><td>2</td>
+
+<tr>
+<td>Justin Nicolino*</td><td>0</td>
+
+<tr>
+<td>Jon Niese*</td><td>0</td>
+
+<tr>
+<td>Jon Niese*</td><td>0</td>
+
+<tr>
+<td>Kirk Nieuwenhuis*</td><td>13</td>
+
+<tr>
+<td>Brandon Nimmo*</td><td>1</td>
+
+<tr>
+<td>Aaron Nola</td><td>0</td>
+
+<tr>
+<td>Ricky Nolasco</td><td>0</td>
+
+<tr>
+<td>Ricky Nolasco</td><td>0</td>
+
+<tr>
+<td>Nick Noonan*</td><td>0</td>
+
+<tr>
+<td>Bud Norris</td><td>0</td>
+
+<tr>
+<td>Bud Norris</td><td>0</td>
+
+<tr>
+<td>Daniel Norris*</td><td>0</td>
+
+<tr>
+<td>Derek Norris</td><td>14</td>
+
+<tr>
+<td>Ivan Nova</td><td>0</td>
+
+<tr>
+<td>Ivan Nova</td><td>0</td>
+
+<tr>
+<td>Eduardo Nunez</td><td>12</td>
+
+<tr>
+<td>Eduardo Nunez</td><td>4</td>
+
+<tr>
+<td>Renato Nunez</td><td>0</td>
+
+<tr>
+<td>Vidal Nuno*</td><td>0</td>
+
+<tr>
+<td>Peter O'Brien</td><td>5</td>
+
+<tr>
+<td>Eric O'Flaherty*</td><td>0</td>
+
+<tr>
+<td>Shawn O'Malley#</td><td>2</td>
+
+<tr>
+<td>Ryan O'Rourke</td><td>0</td>
+
+<tr>
+<td>Scott Oberg</td><td>0</td>
+
+<tr>
+<td>Brett Oberholtzer*</td><td>0</td>
+
+<tr>
+<td>Rougned Odor*</td><td>33</td>
+
+<tr>
+<td>Jake Odorizzi</td><td>0</td>
+
+<tr>
+<td>Alexi Ogando</td><td>0</td>
+
+<tr>
+<td>Nefi Ogando</td><td>0</td>
+
+<tr>
+<td>Seung-hwan Oh</td><td>0</td>
+
+<tr>
+<td>Ross Ohlendorf</td><td>0</td>
+
+<tr>
+<td>Steven Okert*</td><td>0</td>
+
+<tr>
+<td>Hector Olivera</td><td>0</td>
+
+<tr>
+<td>Matt Olson*</td><td>0</td>
+
+<tr>
+<td>Logan Ondrusek</td><td>0</td>
+
+<tr>
+<td>Paulo Orlando</td><td>5</td>
+
+<tr>
+<td>Rafael Ortega*</td><td>1</td>
+
+<tr>
+<td>David Ortiz*</td><td>38</td>
+
+<tr>
+<td>Josh Osich*</td><td>0</td>
+
+<tr>
+<td>Roberto Osuna</td><td>0</td>
+
+<tr>
+<td>Dan Otero</td><td>0</td>
+
+<tr>
+<td>Adam Ottavino#</td><td>0</td>
+
+<tr>
+<td>Chris Owings</td><td>5</td>
+
+<tr>
+<td>Marcell Ozuna</td><td>23</td>
+
+<tr>
+<td>Jordan Pacheco</td><td>0</td>
+
+<tr>
+<td>Angel Pagan#</td><td>12</td>
+
+<tr>
+<td>Joe Panik*</td><td>10</td>
+
+<tr>
+<td>Jonathan Papelbon</td><td>0</td>
+
+<tr>
+<td>Jimmy Paredes#</td><td>1</td>
+
+<tr>
+<td>Jimmy Paredes#</td><td>4</td>
+
+<tr>
+<td>Byung Ho Park</td><td>12</td>
+
+<tr>
+<td>Jarrett Parker*</td><td>5</td>
+
+<tr>
+<td>Chris Parmelee*</td><td>2</td>
+
+<tr>
+<td>Gerardo Parra*</td><td>7</td>
+
+<tr>
+<td>Curtis Partch</td><td>0</td>
+
+<tr>
+<td>Jordan Patterson*</td><td>0</td>
+
+<tr>
+<td>Spencer Patton</td><td>0</td>
+
+<tr>
+<td>Ben Paulsen*</td><td>1</td>
+
+<tr>
+<td>James Paxton*</td><td>0</td>
+
+<tr>
+<td>Brad Peacock</td><td>0</td>
+
+<tr>
+<td>Steve Pearce</td><td>10</td>
+
+<tr>
+<td>Steve Pearce</td><td>3</td>
+
+<tr>
+<td>Jake Peavy</td><td>0</td>
+
+<tr>
+<td>Joc Pederson*</td><td>25</td>
+
+<tr>
+<td>Dustin Pedroia</td><td>15</td>
+
+<tr>
+<td>Ariel Pena</td><td>0</td>
+
+<tr>
+<td>Brayan Pena#</td><td>0</td>
+
+<tr>
+<td>Felix Pena</td><td>0</td>
+
+<tr>
+<td>Francisco Pena</td><td>1</td>
+
+<tr>
+<td>Ramiro Pena#</td><td>1</td>
+
+<tr>
+<td>Hunter Pence</td><td>13</td>
+
+<tr>
+<td>Cliff Pennington#</td><td>3</td>
+
+<tr>
+<td>David Peralta*</td><td>4</td>
+
+<tr>
+<td>Jhonny Peralta</td><td>8</td>
+
+<tr>
+<td>Joel Peralta</td><td>0</td>
+
+<tr>
+<td>Joel Peralta</td><td>0</td>
+
+<tr>
+<td>Wandy Peralta*</td><td>0</td>
+
+<tr>
+<td>Wily Peralta</td><td>1</td>
+
+<tr>
+<td>Jose Peraza</td><td>3</td>
+
+<tr>
+<td>Luis Perdomo</td><td>0</td>
+
+<tr>
+<td>Carlos Perez</td><td>5</td>
+
+<tr>
+<td>Hernan Perez</td><td>13</td>
+
+<tr>
+<td>Martin Perez*</td><td>0</td>
+
+<tr>
+<td>Oliver Perez*</td><td>0</td>
+
+<tr>
+<td>Roberto Perez</td><td>3</td>
+
+<tr>
+<td>Salvador Perez</td><td>22</td>
+
+<tr>
+<td>Williams Perez</td><td>0</td>
+
+<tr>
+<td>Yefri Perez#</td><td>0</td>
+
+<tr>
+<td>Jace Peterson*</td><td>7</td>
+
+<tr>
+<td>Gregorio Petit</td><td>2</td>
+
+<tr>
+<td>Yusmeiro Petit</td><td>0</td>
+
+<tr>
+<td>Tommy Pham</td><td>9</td>
+
+<tr>
+<td>Josh Phegley</td><td>1</td>
+
+<tr>
+<td>David Phelps</td><td>0</td>
+
+<tr>
+<td>Brandon Phillips</td><td>11</td>
+
+<tr>
+<td>Zach Phillips*</td><td>0</td>
+
+<tr>
+<td>A.J. Pierzynski*</td><td>2</td>
+
+<tr>
+<td>Kevin Pillar</td><td>7</td>
+
+<tr>
+<td>Manny Pina</td><td>2</td>
+
+<tr>
+<td>Chad Pinder</td><td>1</td>
+
+<tr>
+<td>Michael Pineda</td><td>0</td>
+
+<tr>
+<td>Josmil Pinto</td><td>0</td>
+
+<tr>
+<td>Jose Pirela</td><td>0</td>
+
+<tr>
+<td>Stephen Piscotty</td><td>22</td>
+
+<tr>
+<td>Kevin Plawecki</td><td>1</td>
+
+<tr>
+<td>Trevor Plouffe</td><td>12</td>
+
+<tr>
+<td>Adam Plutko</td><td>0</td>
+
+<tr>
+<td>Gregory Polanco*</td><td>22</td>
+
+<tr>
+<td>Jorge Polanco#</td><td>4</td>
+
+<tr>
+<td>A.J. Pollock</td><td>2</td>
+
+<tr>
+<td>Drew Pomeranz</td><td>1</td>
+
+<tr>
+<td>Drew Pomeranz</td><td>0</td>
+
+<tr>
+<td>Dalton Pompey#</td><td>0</td>
+
+<tr>
+<td>Rick Porcello</td><td>0</td>
+
+<tr>
+<td>Buster Posey</td><td>14</td>
+
+<tr>
+<td>Martin Prado</td><td>8</td>
+
+<tr>
+<td>Alex Presley*</td><td>3</td>
+
+<tr>
+<td>Alex Presley*</td><td>0</td>
+
+<tr>
+<td>Ryan Pressly</td><td>0</td>
+
+<tr>
+<td>David Price*</td><td>0</td>
+
+<tr>
+<td>Jurickson Profar#</td><td>5</td>
+
+<tr>
+<td>Yasiel Puig</td><td>11</td>
+
+<tr>
+<td>Albert Pujols</td><td>31</td>
+
+<tr>
+<td>Zach Putnam</td><td>0</td>
+
+<tr>
+<td>Kevin Quackenbush</td><td>0</td>
+
+<tr>
+<td>Chad Qualls</td><td>0</td>
+
+<tr>
+<td>Juniel Querecuto#</td><td>0</td>
+
+<tr>
+<td>Roman Quinn#</td><td>0</td>
+
+<tr>
+<td>Jose Quintana</td><td>0</td>
+
+<tr>
+<td>Ryan Raburn</td><td>9</td>
+
+<tr>
+<td>Alexei Ramirez</td><td>5</td>
+
+<tr>
+<td>Alexei Ramirez</td><td>1</td>
+
+<tr>
+<td>Erasmo Ramirez</td><td>0</td>
+
+<tr>
+<td>Hanley Ramirez</td><td>30</td>
+
+<tr>
+<td>J.C. Ramirez</td><td>0</td>
+
+<tr>
+<td>J.C. Ramirez</td><td>0</td>
+
+<tr>
+<td>Jose Ramirez</td><td>0</td>
+
+<tr>
+<td>Jose Ramirez#</td><td>11</td>
+
+<tr>
+<td>Neil Ramirez</td><td>0</td>
+
+<tr>
+<td>Neil Ramirez</td><td>0</td>
+
+<tr>
+<td>A.J. Ramos</td><td>0</td>
+
+<tr>
+<td>Cesar Ramos*</td><td>0</td>
+
+<tr>
+<td>Edubray Ramos</td><td>0</td>
+
+<tr>
+<td>Wilson Ramos</td><td>22</td>
+
+<tr>
+<td>Anthony Ranaudo</td><td>1</td>
+
+<tr>
+<td>Colby Rasmus*</td><td>15</td>
+
+<tr>
+<td>Cory Rasmus</td><td>0</td>
+
+<tr>
+<td>Josh Ravin</td><td>0</td>
+
+<tr>
+<td>Robbie Ray*</td><td>1</td>
+
+<tr>
+<td>Colin Rea</td><td>0</td>
+
+<tr>
+<td>Colin Rea</td><td>0</td>
+
+<tr>
+<td>J.T. Realmuto</td><td>11</td>
+
+<tr>
+<td>Anthony Recker</td><td>2</td>
+
+<tr>
+<td>Josh Reddick*</td><td>8</td>
+
+<tr>
+<td>Josh Reddick*</td><td>2</td>
+
+<tr>
+<td>A.J. Reed*</td><td>3</td>
+
+<tr>
+<td>Addison Reed*</td><td>0</td>
+
+<tr>
+<td>Cody Reed*</td><td>0</td>
+
+<tr>
+<td>Michael Reed</td><td>0</td>
+
+<tr>
+<td>Rob Refsnyder</td><td>0</td>
+
+<tr>
+<td>Nolan Reimold</td><td>6</td>
+
+<tr>
+<td>Tony Renda</td><td>0</td>
+
+<tr>
+<td>Anthony Rendon</td><td>20</td>
+
+<tr>
+<td>Hunter Renfroe</td><td>4</td>
+
+<tr>
+<td>Ben Revere*</td><td>2</td>
+
+<tr>
+<td>Alex Reyes</td><td>0</td>
+
+<tr>
+<td>Jose Reyes#</td><td>8</td>
+
+<tr>
+<td>Mark Reynolds</td><td>14</td>
+
+<tr>
+<td>Matt Reynolds*</td><td>0</td>
+
+<tr>
+<td>Matt Reynolds</td><td>3</td>
+
+<tr>
+<td>Clayton Richard*</td><td>0</td>
+
+<tr>
+<td>Clayton Richard*</td><td>0</td>
+
+<tr>
+<td>Joey Rickard</td><td>5</td>
+
+<tr>
+<td>Rene Rivera</td><td>6</td>
+
+<tr>
+<td>T.J. Rivera</td><td>3</td>
+
+<tr>
+<td>Yadiel Rivera</td><td>0</td>
+
+<tr>
+<td>Felipe Rivero*</td><td>0</td>
+
+<tr>
+<td>Felipe Rivero*</td><td>0</td>
+
+<tr>
+<td>Anthony Rizzo*</td><td>32</td>
+
+<tr>
+<td>Tanner Roark</td><td>0</td>
+
+<tr>
+<td>Dan Robertson</td><td>0</td>
+
+<tr>
+<td>David Robertson</td><td>0</td>
+
+<tr>
+<td>Clint Robinson*</td><td>5</td>
+
+<tr>
+<td>Shane Robinson</td><td>1</td>
+
+<tr>
+<td>Hansel Robles</td><td>0</td>
+
+<tr>
+<td>Fernando Rodney</td><td>0</td>
+
+<tr>
+<td>Fernando Rodney</td><td>0</td>
+
+<tr>
+<td>Carlos Rodon*</td><td>0</td>
+
+<tr>
+<td>Alex Rodriguez</td><td>9</td>
+
+<tr>
+<td>Eduardo Rodriguez*</td><td>0</td>
+
+<tr>
+<td>Fernando Rodriguez</td><td>0</td>
+
+<tr>
+<td>Francisco Rodriguez</td><td>0</td>
+
+<tr>
+<td>Joely Rodriguez*</td><td>0</td>
+
+<tr>
+<td>Sean Rodriguez</td><td>18</td>
+
+<tr>
+<td>Chaz Roe</td><td>0</td>
+
+<tr>
+<td>Jason Rogers</td><td>0</td>
+
+<tr>
+<td>Taylor Rogers*</td><td>0</td>
+
+<tr>
+<td>Miguel Rojas</td><td>1</td>
+
+<tr>
+<td>David Rollins*</td><td>0</td>
+
+<tr>
+<td>Jimmy Rollins#</td><td>2</td>
+
+<tr>
+<td>Enny Romero*</td><td>0</td>
+
+<tr>
+<td>Stefen Romero</td><td>0</td>
+
+<tr>
+<td>Andrew Romine#</td><td>2</td>
+
+<tr>
+<td>Austin Romine</td><td>4</td>
+
+<tr>
+<td>Sergio Romo</td><td>0</td>
+
+<tr>
+<td>Bruce Rondon</td><td>0</td>
+
+<tr>
+<td>Hector Rondon</td><td>0</td>
+
+<tr>
+<td>Jorge Rondon</td><td>0</td>
+
+<tr>
+<td>Jose Rondon</td><td>0</td>
+
+<tr>
+<td>Adam Rosales</td><td>13</td>
+
+<tr>
+<td>Alberto Rosario</td><td>0</td>
+
+<tr>
+<td>Eddie Rosario*</td><td>10</td>
+
+<tr>
+<td>Trevor Rosenthal</td><td>0</td>
+
+<tr>
+<td>David Ross</td><td>10</td>
+
+<tr>
+<td>Joe Ross</td><td>0</td>
+
+<tr>
+<td>Robbie Ross*</td><td>0</td>
+
+<tr>
+<td>Tyson Ross</td><td>0</td>
+
+<tr>
+<td>Ben Rowen</td><td>0</td>
+
+<tr>
+<td>Ryan Rua</td><td>8</td>
+
+<tr>
+<td>Darin Ruf</td><td>3</td>
+
+<tr>
+<td>Justin Ruggiano</td><td>0</td>
+
+<tr>
+<td>Justin Ruggiano</td><td>2</td>
+
+<tr>
+<td>Carlos Ruiz</td><td>3</td>
+
+<tr>
+<td>Carlos Ruiz</td><td>0</td>
+
+<tr>
+<td>Rio Ruiz*</td><td>0</td>
+
+<tr>
+<td>Cameron Rupp</td><td>16</td>
+
+<tr>
+<td>Chris Rusin*</td><td>0</td>
+
+<tr>
+<td>Addison Russell</td><td>21</td>
+
+<tr>
+<td>James Russell*</td><td>0</td>
+
+<tr>
+<td>Josh Rutledge</td><td>0</td>
+
+<tr>
+<td>Brendan Ryan</td><td>0</td>
+
+<tr>
+<td>Kyle Ryan*</td><td>0</td>
+
+<tr>
+<td>Hyun-Jin Ryu</td><td>0</td>
+
+<tr>
+<td>Marc Rzepczynski*</td><td>0</td>
+
+<tr>
+<td>Marc Rzepczynski*</td><td>0</td>
+
+<tr>
+<td>CC Sabathia*</td><td>0</td>
+
+<tr>
+<td>Tyler Saladino</td><td>8</td>
+
+<tr>
+<td>Fernando Salas</td><td>0</td>
+
+<tr>
+<td>Fernando Salas</td><td>0</td>
+
+<tr>
+<td>Danny Salazar*</td><td>0</td>
+
+<tr>
+<td>Chris Sale*</td><td>0</td>
+
+<tr>
+<td>Jarrod Saltalamacchia#</td><td>12</td>
+
+<tr>
+<td>Jeff Samardzija</td><td>0</td>
+
+<tr>
+<td>Keyvius Sampson</td><td>0</td>
+
+<tr>
+<td>Aaron Sanchez</td><td>0</td>
+
+<tr>
+<td>Anibal Sanchez</td><td>0</td>
+
+<tr>
+<td>Carlos Sanchez#</td><td>4</td>
+
+<tr>
+<td>Gary Sanchez</td><td>20</td>
+
+<tr>
+<td>Hector Sanchez#</td><td>0</td>
+
+<tr>
+<td>Hector Sanchez#</td><td>3</td>
+
+<tr>
+<td>Pablo Sandoval#</td><td>0</td>
+
+<tr>
+<td>Jerry Sands</td><td>1</td>
+
+<tr>
+<td>Miguel Sano</td><td>25</td>
+
+<tr>
+<td>Carlos Santana#</td><td>34</td>
+
+<tr>
+<td>Danny Santana#</td><td>2</td>
+
+<tr>
+<td>Domingo Santana</td><td>11</td>
+
+<tr>
+<td>Ervin Santana</td><td>0</td>
+
+<tr>
+<td>Hector Santiago</td><td>0</td>
+
+<tr>
+<td>Luis Sardinas#</td><td>2</td>
+
+<tr>
+<td>Luis Sardinas#</td><td>2</td>
+
+<tr>
+<td>Michael Saunders*</td><td>24</td>
+
+<tr>
+<td>Rob Scahill*</td><td>0</td>
+
+<tr>
+<td>Rob Scahill*</td><td>0</td>
+
+<tr>
+<td>Logan Schafer*</td><td>0</td>
+
+<tr>
+<td>Scott Schebler*</td><td>9</td>
+
+<tr>
+<td>Max Scherzer</td><td>0</td>
+
+<tr>
+<td>Ryan Schimpf*</td><td>20</td>
+
+<tr>
+<td>Jonathan Schoop</td><td>25</td>
+
+<tr>
+<td>A.J. Schugel</td><td>0</td>
+
+<tr>
+<td>Patrick Schuster</td><td>0</td>
+
+<tr>
+<td>Kyle Schwarber*</td><td>0</td>
+
+<tr>
+<td>Xavier Scruggs</td><td>1</td>
+
+<tr>
+<td>Corey Seager*</td><td>26</td>
+
+<tr>
+<td>Kyle Seager*</td><td>30</td>
+
+<tr>
+<td>Rob Segedin</td><td>2</td>
+
+<tr>
+<td>Jean Segura</td><td>20</td>
+
+<tr>
+<td>Steve Selsky</td><td>2</td>
+
+<tr>
+<td>Marcus Semien</td><td>27</td>
+
+<tr>
+<td>Pedro Severino</td><td>2</td>
+
+<tr>
+<td>Richie Shaffer</td><td>1</td>
+
+<tr>
+<td>Bryan Shaw#</td><td>0</td>
+
+<tr>
+<td>Travis Shaw*</td><td>16</td>
+
+<tr>
+<td>James Shields</td><td>0</td>
+
+<tr>
+<td>James Shields</td><td>0</td>
+
+<tr>
+<td>Braden Shipley</td><td>0</td>
+
+<tr>
+<td>Matt Shoemaker</td><td>0</td>
+
+<tr>
+<td>Chasen Shreve*</td><td>0</td>
+
+<tr>
+<td>J.B. Shuck*</td><td>4</td>
+
+<tr>
+<td>Kevin Siegrist*</td><td>0</td>
+
+<tr>
+<td>Andrelton Simmons</td><td>4</td>
+
+<tr>
+<td>Shae Simmons</td><td>0</td>
+
+<tr>
+<td>Alfredo Simon</td><td>0</td>
+
+<tr>
+<td>Tony Sipp*</td><td>0</td>
+
+<tr>
+<td>Blake Smith*</td><td>0</td>
+
+<tr>
+<td>Jake Smith</td><td>0</td>
+
+<tr>
+<td>Joe Smith</td><td>0</td>
+
+<tr>
+<td>Joe Smith</td><td>0</td>
+
+<tr>
+<td>Josh Smith</td><td>0</td>
+
+<tr>
+<td>Kevan Smith</td><td>0</td>
+
+<tr>
+<td>Mallex Smith*</td><td>3</td>
+
+<tr>
+<td>Seth Smith*</td><td>16</td>
+
+<tr>
+<td>Will Smith</td><td>0</td>
+
+<tr>
+<td>Will Smith</td><td>0</td>
+
+<tr>
+<td>Justin Smoak#</td><td>14</td>
+
+<tr>
+<td>Josh Smoker*</td><td>0</td>
+
+<tr>
+<td>Jake Smolinski</td><td>7</td>
+
+<tr>
+<td>Drew Smyly*</td><td>0</td>
+
+<tr>
+<td>Blake Snell*</td><td>0</td>
+
+<tr>
+<td>Brandon Snyder</td><td>4</td>
+
+<tr>
+<td>Miguel Socolovich</td><td>0</td>
+
+<tr>
+<td>Donovan Solano</td><td>1</td>
+
+<tr>
+<td>Yangervis Solarte#</td><td>15</td>
+
+<tr>
+<td>Jorge Soler</td><td>12</td>
+
+<tr>
+<td>Sammy Solis</td><td>0</td>
+
+<tr>
+<td>Layne Somsen</td><td>0</td>
+
+<tr>
+<td>Joakim Soria</td><td>0</td>
+
+<tr>
+<td>Geovany Soto</td><td>4</td>
+
+<tr>
+<td>Steven Souza</td><td>17</td>
+
+<tr>
+<td>Denard Span*</td><td>11</td>
+
+<tr>
+<td>Cory Spangenberg*</td><td>1</td>
+
+<tr>
+<td>George Springer</td><td>29</td>
+
+<tr>
+<td>Jacob Stallings</td><td>0</td>
+
+<tr>
+<td>Giancarlo Stanton</td><td>27</td>
+
+<tr>
+<td>Max Stassi</td><td>0</td>
+
+<tr>
+<td>Robert Stephenson</td><td>0</td>
+
+<tr>
+<td>Brock Stewart*</td><td>0</td>
+
+<tr>
+<td>Chris Stewart</td><td>1</td>
+
+<tr>
+<td>Drew Storen#</td><td>0</td>
+
+<tr>
+<td>Drew Storen#</td><td>0</td>
+
+<tr>
+<td>Trevor Story</td><td>27</td>
+
+<tr>
+<td>Matt Strahm</td><td>0</td>
+
+<tr>
+<td>Dan Straily</td><td>0</td>
+
+<tr>
+<td>Stephen Strasburg</td><td>0</td>
+
+<tr>
+<td>Chris Stratton</td><td>0</td>
+
+<tr>
+<td>Huston Street</td><td>0</td>
+
+<tr>
+<td>Hunter Strickland</td><td>0</td>
+
+<tr>
+<td>Ross Stripling</td><td>0</td>
+
+<tr>
+<td>Marcus Stroman</td><td>0</td>
+
+<tr>
+<td>Pedro Strop</td><td>0</td>
+
+<tr>
+<td>Drew Stubbs</td><td>1</td>
+
+<tr>
+<td>Drew Stubbs</td><td>2</td>
+
+<tr>
+<td>Drew Stubbs</td><td>0</td>
+
+<tr>
+<td>Daniel Stumpf*</td><td>0</td>
+
+<tr>
+<td>Tyler Sturdevant</td><td>0</td>
+
+<tr>
+<td>Albert Suarez</td><td>0</td>
+
+<tr>
+<td>Eugenio Suarez</td><td>21</td>
+
+<tr>
+<td>Jesus Sucre</td><td>1</td>
+
+<tr>
+<td>Andrew Susac</td><td>1</td>
+
+<tr>
+<td>Brent Suter*</td><td>0</td>
+
+<tr>
+<td>Ichiro Suzuki*</td><td>1</td>
+
+<tr>
+<td>Kurt Suzuki</td><td>8</td>
+
+<tr>
+<td>Dansby Swanson</td><td>3</td>
+
+<tr>
+<td>Anthony Swarzak</td><td>0</td>
+
+<tr>
+<td>Blake Swihart#</td><td>0</td>
+
+<tr>
+<td>Noah Syndergaard*</td><td>3</td>
+
+<tr>
+<td>Matt Szczur</td><td>5</td>
+
+<tr>
+<td>Jameson Taillon</td><td>0</td>
+
+<tr>
+<td>Masahiro Tanaka</td><td>0</td>
+
+<tr>
+<td>Raimel Tapia*</td><td>0</td>
+
+<tr>
+<td>Chris Taylor</td><td>0</td>
+
+<tr>
+<td>Chris Taylor</td><td>1</td>
+
+<tr>
+<td>Michael Taylor</td><td>7</td>
+
+<tr>
+<td>Junichi Tazawa</td><td>0</td>
+
+<tr>
+<td>Julio Teheran</td><td>0</td>
+
+<tr>
+<td>Mark Teixeira#</td><td>15</td>
+
+<tr>
+<td>Ruben Tejada</td><td>0</td>
+
+<tr>
+<td>Ruben Tejada</td><td>0</td>
+
+<tr>
+<td>Tomas Telis#</td><td>1</td>
+
+<tr>
+<td>Ryan Tepera</td><td>0</td>
+
+<tr>
+<td>Nick Tepesch</td><td>0</td>
+
+<tr>
+<td>Josh Thole*</td><td>1</td>
+
+<tr>
+<td>Jake Thompson</td><td>0</td>
+
+<tr>
+<td>Trayce Thompson</td><td>13</td>
+
+<tr>
+<td>Tyler Thornburg</td><td>0</td>
+
+<tr>
+<td>Matt Thornton*</td><td>0</td>
+
+<tr>
+<td>Chris Tillman</td><td>0</td>
+
+<tr>
+<td>Charlie Tilson*</td><td>0</td>
+
+<tr>
+<td>Andrew Toles*</td><td>3</td>
+
+<tr>
+<td>Shawn Tolleson</td><td>0</td>
+
+<tr>
+<td>Yasmany Tomas</td><td>31</td>
+
+<tr>
+<td>Josh Tomlin</td><td>0</td>
+
+<tr>
+<td>Kelby Tomlinson</td><td>0</td>
+
+<tr>
+<td>Michael Tonkin</td><td>0</td>
+
+<tr>
+<td>Carlos Torres</td><td>0</td>
+
+<tr>
+<td>Jose Torres*</td><td>0</td>
+
+<tr>
+<td>Ronald Torreyes</td><td>1</td>
+
+<tr>
+<td>Devon Travis</td><td>11</td>
+
+<tr>
+<td>Blake Treinen</td><td>0</td>
+
+<tr>
+<td>Andrew Triggs</td><td>0</td>
+
+<tr>
+<td>Nick Tropeano</td><td>0</td>
+
+<tr>
+<td>Mike Trout</td><td>29</td>
+
+<tr>
+<td>Mark Trumbo</td><td>47</td>
+
+<tr>
+<td>Chin-hui Tsao</td><td>0</td>
+
+<tr>
+<td>Preston Tucker*</td><td>4</td>
+
+<tr>
+<td>Matt Tuiasosopo</td><td>0</td>
+
+<tr>
+<td>Sam Tuivailala</td><td>0</td>
+
+<tr>
+<td>Troy Tulowitzki</td><td>24</td>
+
+<tr>
+<td>Jacob Turner</td><td>0</td>
+
+<tr>
+<td>Justin Turner</td><td>27</td>
+
+<tr>
+<td>Trea Turner</td><td>13</td>
+
+<tr>
+<td>Koji Uehara</td><td>0</td>
+
+<tr>
+<td>Justin Upton</td><td>31</td>
+
+<tr>
+<td>Melvin Upton</td><td>16</td>
+
+<tr>
+<td>Melvin Upton</td><td>4</td>
+
+<tr>
+<td>Jose Urena</td><td>0</td>
+
+<tr>
+<td>Julio Urias*</td><td>0</td>
+
+<tr>
+<td>Juan Uribe</td><td>7</td>
+
+<tr>
+<td>Chase Utley*</td><td>14</td>
+
+<tr>
+<td>Pat Valaika</td><td>1</td>
+
+<tr>
+<td>Luis Valbuena*</td><td>13</td>
+
+<tr>
+<td>Danny Valencia</td><td>17</td>
+
+<tr>
+<td>Scott Van Slyke</td><td>1</td>
+
+<tr>
+<td>Cesar Vargas</td><td>0</td>
+
+<tr>
+<td>Kennys Vargas#</td><td>10</td>
+
+<tr>
+<td>Christian Vazquez</td><td>1</td>
+
+<tr>
+<td>Vince Velasquez</td><td>0</td>
+
+<tr>
+<td>Will Venable*</td><td>0</td>
+
+<tr>
+<td>Yordano Ventura</td><td>0</td>
+
+<tr>
+<td>Drew VerHagen</td><td>0</td>
+
+<tr>
+<td>Justin Verlander</td><td>0</td>
+
+<tr>
+<td>Logan Verrett</td><td>0</td>
+
+<tr>
+<td>Carlos Villanueva</td><td>0</td>
+
+<tr>
+<td>Jonathan Villar#</td><td>19</td>
+
+<tr>
+<td>Nick Vincent</td><td>0</td>
+
+<tr>
+<td>Arodys Vizcaino</td><td>0</td>
+
+<tr>
+<td>Dan Vogelbach*</td><td>0</td>
+
+<tr>
+<td>Ryan Vogelsong</td><td>0</td>
+
+<tr>
+<td>Stephen Vogt*</td><td>14</td>
+
+<tr>
+<td>Edinson Volquez</td><td>0</td>
+
+<tr>
+<td>Joey Votto*</td><td>29</td>
+
+<tr>
+<td>Michael Wacha</td><td>0</td>
+
+<tr>
+<td>Tyler Wagner</td><td>0</td>
+
+<tr>
+<td>Adam Wainwright</td><td>2</td>
+
+<tr>
+<td>Kyle Waldrop*</td><td>0</td>
+
+<tr>
+<td>Neil Walker#</td><td>23</td>
+
+<tr>
+<td>Brett Wallace*</td><td>6</td>
+
+<tr>
+<td>Colin Walsh#</td><td>0</td>
+
+<tr>
+<td>Zach Walters#</td><td>0</td>
+
+<tr>
+<td>Chien-Ming Wang</td><td>0</td>
+
+<tr>
+<td>Adam Warren</td><td>0</td>
+
+<tr>
+<td>Adam Warren</td><td>0</td>
+
+<tr>
+<td>Tony Watson*</td><td>0</td>
+
+<tr>
+<td>Jered Weaver</td><td>0</td>
+
+<tr>
+<td>Luke Weaver</td><td>0</td>
+
+<tr>
+<td>Ryan Weber</td><td>0</td>
+
+<tr>
+<td>Jemile Weeks#</td><td>0</td>
+
+<tr>
+<td>Rickie Weeks</td><td>9</td>
+
+<tr>
+<td>J.B. Wendelken</td><td>0</td>
+
+<tr>
+<td>Joey Wendle*</td><td>1</td>
+
+<tr>
+<td>Jayson Werth</td><td>21</td>
+
+<tr>
+<td>Robert Whalen</td><td>0</td>
+
+<tr>
+<td>Tyler White</td><td>8</td>
+
+<tr>
+<td>Matt Wieters#</td><td>17</td>
+
+<tr>
+<td>Tom Wilhelmsen</td><td>0</td>
+
+<tr>
+<td>Andy Wilkins*</td><td>1</td>
+
+<tr>
+<td>Jerome Williams</td><td>0</td>
+
+<tr>
+<td>Mason Williams*</td><td>0</td>
+
+<tr>
+<td>Trevor Williams</td><td>0</td>
+
+<tr>
+<td>Mac Williamson</td><td>6</td>
+
+<tr>
+<td>Alex Wilson</td><td>0</td>
+
+<tr>
+<td>Bobby Wilson</td><td>0</td>
+
+<tr>
+<td>Bobby Wilson</td><td>3</td>
+
+<tr>
+<td>Bobby Wilson</td><td>4</td>
+
+<tr>
+<td>Justin Wilson*</td><td>0</td>
+
+<tr>
+<td>Tyler Wilson</td><td>0</td>
+
+<tr>
+<td>Alex Wimmers*</td><td>0</td>
+
+<tr>
+<td>Daniel Winkler</td><td>0</td>
+
+<tr>
+<td>Matt Wisler</td><td>0</td>
+
+<tr>
+<td>Chris Withrow</td><td>0</td>
+
+<tr>
+<td>Nick Wittgren</td><td>0</td>
+
+<tr>
+<td>Tony Wolters*</td><td>3</td>
+
+<tr>
+<td>Kolten Wong*</td><td>5</td>
+
+<tr>
+<td>Alex Wood</td><td>0</td>
+
+<tr>
+<td>Blake Wood</td><td>0</td>
+
+<tr>
+<td>Travis Wood</td><td>0</td>
+
+<tr>
+<td>Vance Worley</td><td>0</td>
+
+<tr>
+<td>Danny Worth</td><td>0</td>
+
+<tr>
+<td>Daniel Wright</td><td>0</td>
+
+<tr>
+<td>David Wright</td><td>7</td>
+
+<tr>
+<td>Mike Wright</td><td>0</td>
+
+<tr>
+<td>Steven Wright</td><td>0</td>
+
+<tr>
+<td>Kirby Yates*</td><td>0</td>
+
+<tr>
+<td>Christian Yelich*</td><td>21</td>
+
+<tr>
+<td>Gabriel Ynoa</td><td>0</td>
+
+<tr>
+<td>Michael Ynoa</td><td>0</td>
+
+<tr>
+<td>Rafael Ynoa#</td><td>0</td>
+
+<tr>
+<td>Chris Young</td><td>9</td>
+
+<tr>
+<td>Chris Young</td><td>0</td>
+
+<tr>
+<td>Eric Young#</td><td>0</td>
+
+<tr>
+<td>Madison Younginer</td><td>0</td>
+
+<tr>
+<td>Rob Zastryzny</td><td>0</td>
+
+<tr>
+<td>Brad Ziegler</td><td>0</td>
+
+<tr>
+<td>Brad Ziegler</td><td>0</td>
+
+<tr>
+<td>Ryan Zimmerman</td><td>15</td>
+
+<tr>
+<td>Jordan Zimmermann</td><td>0</td>
+
+<tr>
+<td>Ben Zobrist#</td><td>18</td>
+
+<tr>
+<td>Mike Zunino</td><td>12</td>
+
+</table></body>
+</html>
