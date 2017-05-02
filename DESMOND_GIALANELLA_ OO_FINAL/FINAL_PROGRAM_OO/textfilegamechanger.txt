@@ -1,0 +1,28 @@
+villain1=2
+villain2=4
+hero=1
+viewMODE=1
+
+
+
+
+~villain
+
+~speed up, purple ball=1
+~teleport, red ball=2
+~grow, yellow ball=3
+~random movement, green ball=4
+
+
+~hero       TO USE HERO: PRESS SPACE TO ACTIVATE POWER
+
+~teleport, bubble=1
+~invincible, steel ball=2
+-shrinking, ice ball=3
+
+
+~viewMODE
+
+~bar=1
+~number=2
+
